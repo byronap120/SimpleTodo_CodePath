@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="dialog_edit_title">Edit Item</string>
+    <string name="dialog_create_title">New Item</string>
+    <string name="dialog_save_button">Save</string>
+    <string name="dialog_cancel_button">Cancel</string>
+    <string name="dialog_hint_name">Item Name</string>
+    <string name="dialog_hint_description">Item Description</string>
+
+</resources>
